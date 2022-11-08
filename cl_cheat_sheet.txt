@@ -6,3 +6,4 @@ mkdir - Allows directories to be created.
 touch - Allows file creation in directories.
 git init - Used to set up Git in the current directory.
 git status - Shows which files have been modified.
+git commit - Creates a record of the files which have been staged and the details of what has changed in each.
