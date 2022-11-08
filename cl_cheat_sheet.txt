@@ -1,1 +1,2 @@
 Command-Line Cheat Sheet
+pwd - Presents the path from your home directory to the current directory you are at.
