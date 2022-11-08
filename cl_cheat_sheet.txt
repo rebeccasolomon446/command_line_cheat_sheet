@@ -5,3 +5,4 @@ cd - Allows a change from the current directory to another directroy.
 mkdir - Allows directories to be created.
 touch - Allows file creation in directories.
 git init - Used to set up Git in the current directory.
+git status - Shows which files have been modified.
